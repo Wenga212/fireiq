@@ -1,17 +1,24 @@
 {
-  "updated": "2026-06-10T18:22:03.653206+00:00",
+  "updated": "2026-06-10T18:34:29.735023+00:00",
   "sources": [
+    {
+      "file": "checkpoint.pdf",
+      "size_bytes": 4740598,
+      "modified": "2026-06-10T18:34:20.868098+00:00",
+      "status": "ok",
+      "models_count": 0
+    },
     {
       "file": "fortinet.pdf",
       "size_bytes": 109570,
-      "modified": "2026-06-10T18:21:57.150138+00:00",
+      "modified": "2026-06-10T18:34:20.869098+00:00",
       "status": "ok",
       "models_count": 28
     },
     {
       "file": "manual-overrides.json",
       "size_bytes": 21182,
-      "modified": "2026-06-10T18:21:57.150138+00:00",
+      "modified": "2026-06-10T18:34:20.869098+00:00",
       "status": "ok",
       "models_count": 62
     }
