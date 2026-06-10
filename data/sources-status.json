@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-10T17:38:19.646092+00:00",
+  "updated": "2026-06-10T17:43:25.452492+00:00",
   "sources": [
     {
       "file": "manual-overrides.json",
       "size_bytes": 30583,
-      "modified": "2026-06-10T17:38:12.866402+00:00",
+      "modified": "2026-06-10T17:43:18.597649+00:00",
       "status": "ok",
       "models_count": 88
     }
