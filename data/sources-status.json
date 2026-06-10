@@ -1,19 +1,12 @@
 {
-  "updated": "2026-06-10T18:10:23.170499+00:00",
+  "updated": "2026-06-10T18:21:39.388648+00:00",
   "sources": [
     {
       "file": "fortinet.pdf",
       "size_bytes": 109570,
-      "modified": "2026-06-10T18:10:18.000407+00:00",
+      "modified": "2026-06-10T18:21:32.752007+00:00",
       "status": "ok",
       "models_count": 28
-    },
-    {
-      "file": "manual-overrides.json",
-      "size_bytes": 30583,
-      "modified": "2026-06-10T18:10:18.000407+00:00",
-      "status": "ok",
-      "models_count": 88
     }
   ]
 }
