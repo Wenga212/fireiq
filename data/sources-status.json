@@ -1,18 +1,17 @@
 {
-  "updated": "2026-06-10T18:00:01.168379+00:00",
+  "updated": "2026-06-10T18:10:23.170499+00:00",
   "sources": [
     {
       "file": "fortinet.pdf",
       "size_bytes": 109570,
-      "modified": "2026-06-10T17:59:55.238194+00:00",
-      "status": "error",
-      "error": "module 'inspect' has no attribute 'getmro'",
-      "models_count": 0
+      "modified": "2026-06-10T18:10:18.000407+00:00",
+      "status": "ok",
+      "models_count": 28
     },
     {
       "file": "manual-overrides.json",
       "size_bytes": 30583,
-      "modified": "2026-06-10T17:59:55.238194+00:00",
+      "modified": "2026-06-10T18:10:18.000407+00:00",
       "status": "ok",
       "models_count": 88
     }
