@@ -1,41 +1,40 @@
 {
-  "updated": "2026-06-12T03:57:45.073053+00:00",
+  "updated": "2026-06-12T04:09:28.548745+00:00",
   "sources": [
     {
       "file": "checkpoint.pdf",
       "size_bytes": 4740598,
-      "modified": "2026-06-12T03:57:35.697082+00:00",
+      "modified": "2026-06-12T04:09:20.879717+00:00",
       "status": "ok",
       "models_count": 31
     },
     {
       "file": "cisco-1200.html",
       "size_bytes": 340347,
-      "modified": "2026-06-12T03:57:35.698082+00:00",
-      "status": "error",
-      "error": "'<' not supported between instances of 'NoneType' and 'float'",
-      "models_count": 0
+      "modified": "2026-06-12T04:09:20.880717+00:00",
+      "status": "ok",
+      "models_count": 5
     },
     {
       "file": "fortinet.pdf",
       "size_bytes": 109570,
-      "modified": "2026-06-12T03:57:35.699082+00:00",
+      "modified": "2026-06-12T04:09:20.880717+00:00",
       "status": "ok",
       "models_count": 28
     },
     {
       "file": "manual-overrides.json",
       "size_bytes": 21182,
-      "modified": "2026-06-12T03:57:35.699082+00:00",
+      "modified": "2026-06-12T04:09:20.880717+00:00",
       "status": "ok",
       "models_count": 62
     },
     {
       "file": "paloalto.pdf",
       "size_bytes": 73196,
-      "modified": "2026-06-12T03:57:35.699082+00:00",
+      "modified": "2026-06-12T04:09:20.881717+00:00",
       "status": "ok",
-      "models_count": 0
+      "models_count": 19
     }
   ]
 }
