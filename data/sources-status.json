@@ -1,38 +1,38 @@
 {
-  "updated": "2026-06-18T10:49:54.204948+00:00",
+  "updated": "2026-06-18T10:52:32.496874+00:00",
   "sources": [
     {
       "file": "checkpoint.pdf",
       "size_bytes": 4740598,
-      "modified": "2026-06-18T10:49:48.488621+00:00",
+      "modified": "2026-06-18T10:52:27.033145+00:00",
       "status": "ok",
       "models_count": 33
     },
     {
       "file": "cisco-1200.html",
       "size_bytes": 340347,
-      "modified": "2026-06-18T10:49:48.489621+00:00",
+      "modified": "2026-06-18T10:52:27.035145+00:00",
       "status": "ok",
       "models_count": 5
     },
     {
       "file": "fortinet.pdf",
       "size_bytes": 109570,
-      "modified": "2026-06-18T10:49:48.489621+00:00",
+      "modified": "2026-06-18T10:52:27.035145+00:00",
       "status": "ok",
       "models_count": 28
     },
     {
       "file": "manual-overrides.json",
       "size_bytes": 7895,
-      "modified": "2026-06-18T10:49:48.490621+00:00",
+      "modified": "2026-06-18T10:52:27.035145+00:00",
       "status": "ok",
       "models_count": 23
     },
     {
       "file": "paloalto.pdf",
       "size_bytes": 73196,
-      "modified": "2026-06-18T10:49:48.490621+00:00",
+      "modified": "2026-06-18T10:52:27.036145+00:00",
       "status": "ok",
       "models_count": 41
     }
