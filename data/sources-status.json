@@ -1,12 +1,44 @@
 {
-  "updated": "2026-06-21T15:50:08.048716+00:00",
+  "updated": "2026-06-21T15:52:53.978228+00:00",
   "sources": [
+    {
+      "file": "checkpoint.pdf",
+      "size_bytes": 4740598,
+      "modified": "2026-06-21T15:52:48.682773+00:00",
+      "status": "error",
+      "error": "module 'inspect' has no attribute 'getmro'",
+      "models_count": 0
+    },
+    {
+      "file": "cisco-1200.html",
+      "size_bytes": 340347,
+      "modified": "2026-06-21T15:52:48.683773+00:00",
+      "status": "error",
+      "error": "Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?",
+      "models_count": 0
+    },
+    {
+      "file": "fortinet.pdf",
+      "size_bytes": 109570,
+      "modified": "2026-06-21T15:52:48.684773+00:00",
+      "status": "error",
+      "error": "module 'inspect' has no attribute 'getmro'",
+      "models_count": 0
+    },
     {
       "file": "manual-overrides.json",
       "size_bytes": 30583,
-      "modified": "2026-06-21T15:50:01.847547+00:00",
+      "modified": "2026-06-21T15:52:48.684773+00:00",
       "status": "ok",
       "models_count": 88
+    },
+    {
+      "file": "paloalto.pdf",
+      "size_bytes": 73196,
+      "modified": "2026-06-21T15:52:48.684773+00:00",
+      "status": "error",
+      "error": "module 'inspect' has no attribute 'getmro'",
+      "models_count": 0
     }
   ]
 }
